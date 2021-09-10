@@ -1,3 +1,6 @@
+# Linux back-up files.
+*~
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -6,9 +9,6 @@ __pycache__/
 # Folders
 MURaM_cubes/
 Videos/
-
-# Linux back-up files.
-*~
 
 # Jupyter Notebook
 .ipynb_checkpoints
