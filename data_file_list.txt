@@ -1,0 +1,29 @@
+## This is the list of files I've downloaded so far from
+## https://purl.stanford.edu/dv883vb9686
+## The 11 files with suffix .0270000 are the actual simulation results
+## at timestep 270000.
+## In addition to these files, I recommend downloading the
+## remaining simulation results for the subsequent timesteps.
+
+aia_sparse_em_init.pro
+all_files.txt
+eosP.0270000
+eosT.0270000
+hgcr_hslice.pro
+hgcr_iout.pro
+hgcr_muram2em.pro
+hgcr_muram2vlos.pro
+hgcr_muram_cube.pro
+hgcr_muram_cube.pro~
+hgcr_tauslice.pro
+muram_io.py
+README.txt
+result_prim_0.0270000
+result_prim_1.0270000
+result_prim_2.0270000
+result_prim_3.0270000
+result_prim_4.0270000
+result_prim_5.0270000
+result_prim_6.0270000
+result_prim_7.0270000
+result_prim_8.0270000
