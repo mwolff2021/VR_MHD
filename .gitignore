@@ -3,9 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Folders
 MURaM_cubes/
 Videos/
 
+# Linux back-up files.
+*~
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
